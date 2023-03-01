@@ -1,0 +1,40 @@
+ 
+
+body{
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(222, 245, 159);
+  padding: 30px;
+  margin: 100px;
+  width:80%
+}
+
+h1 {
+
+    font-weight: 400;
+    color:blueviolet
+
+}
+form{
+    display: inline-block;
+    align-content: center;
+    border:5px black solid;
+    border-radius: 20px;
+    background-color: rgb(253, 253, 253);
+    padding: 20px;
+    margin:0px;
+    width:70%
+
+}
+
+.block {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
+
+#qual{
+        background-color: rgb(224, 201, 245);
+}
+
